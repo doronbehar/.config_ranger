@@ -12,6 +12,8 @@ from __future__ import (absolute_import, division, print_function)
 # You can import any python module as needed.
 import os
 
+from fzf import *
+
 # You always need to import ranger.api.commands here to get the Command class:
 from ranger.api.commands import Command
 

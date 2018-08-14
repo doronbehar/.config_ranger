@@ -5,3 +5,4 @@ history
 plugins/__init__.py
 plugins/__pycache__/
 __pycache__/
+fzf.py
